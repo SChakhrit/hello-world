@@ -1,4 +1,9 @@
 hello-world
 ===========
 
-Test Hello World
+Hi,githubter
+
+I'm Chakhrit Supapol
+Software Engineering
+5730213017    
+
